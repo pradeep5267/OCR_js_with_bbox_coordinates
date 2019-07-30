@@ -1,0 +1,1 @@
+## uses tesseract.js package to detect text from the image and return the bbox (bounding box) co ordinates of the detected text
